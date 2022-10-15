@@ -86,37 +86,37 @@
 	},
 	{
 		"abr": "bionischesauge",
-		"price": 1717,
+		"price": 1700,
 		"category": "Bionisch",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionischerarm",
-		"price": 1717,
+		"price": 1700,
 		"category": "Bionisch",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionischesbein",
-		"price": 1717,
+		"price": 1700,
 		"category": "Bionisch",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionischewirbelsäule",
-		"price": 1717,
+		"price": 1700,
 		"category": "Bionisch",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionischesherz",
-		"price": 1717,
+		"price": 1700,
 		"category": "Bionisch",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "bionischermagen",
-		"price": 1308,
+		"price": 1300,
 		"category": "Bionisch",
 		"defname": "BionicStomach"
 	},
@@ -128,13 +128,13 @@
 	},
 	{
 		"abr": "bionischesohr",
-		"price": 1308,
+		"price": 1300,
 		"category": "Bionisch",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bionischezunge",
-		"price": 942,
+		"price": 100,
 		"category": "Bionisch",
 		"defname": "BionicTongue"
 	},
@@ -164,7 +164,7 @@
 	},
 	{
 		"abr": "beinprothese",
-		"price": 433,
+		"price": 500,
 		"category": "Prothetisch",
 		"defname": "SimpleProstheticLeg"
 	},
@@ -230,7 +230,7 @@
 	},
 	{
 		"abr": "bett",
-		"price": 155,
+		"price": 200,
 		"category": "Möbel",
 		"defname": "Bed"
 	},
@@ -596,7 +596,7 @@
 	},
 	{
 		"abr": "brandfalle",
-		"price": 192,
+		"price": 200,
 		"category": "Sicherheit",
 		"defname": "TrapIED_Incendiary"
 	},
@@ -632,7 +632,7 @@
 	},
 	{
 		"abr": "mörser",
-		"price": 1058,
+		"price": 1500,
 		"category": "Sicherheit",
 		"defname": "Turret_Mortar"
 	},
@@ -896,7 +896,7 @@
 	},
 	{
 		"abr": "hightech-bauteil",
-		"price": 333,
+		"price": 350,
 		"category": "Hergestellt",
 		"defname": "ComponentSpacer"
 	},
@@ -986,7 +986,7 @@
 	},
 	{
 		"abr": "brandgranate",
-		"price": 92,
+		"price": 100,
 		"category": "Mörsergranaten",
 		"defname": "Shell_Incendiary"
 	},
@@ -1436,7 +1436,7 @@
 	},
 	{
 		"abr": "durchbruchsaxt",
-		"price": 197,
+		"price": 200,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_BreachAxe"
 	},
@@ -1502,7 +1502,7 @@
 	},
 	{
 		"abr": "brandbolzenwerfer",
-		"price": 567,
+		"price": 600,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_IncendiaryLauncher"
 	},
@@ -1514,7 +1514,7 @@
 	},
 	{
 		"abr": "emp-werfer",
-		"price": 842,
+		"price": 900,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_EmpLauncher"
 	},
@@ -1778,7 +1778,7 @@
 	},
 	{
 		"abr": "bison",
-		"price": 583,
+		"price": 600,
 		"category": "Tiere",
 		"defname": "Bison"
 	},
@@ -1952,7 +1952,7 @@
 	},
 	{
 		"abr": "eichhörnchen",
-		"price": 58,
+		"price": 60,
 		"category": "Tiere",
 		"defname": "Squirrel"
 	},
@@ -2017,310 +2017,508 @@
 		"defname": "Fox_Arctic"
 	},
 	{
+		"abr": "mini-kühlschrank",
+		"price": 121,
+		"category": "Möbel",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "kühlschrank",
+		"price": 186,
+		"category": "Möbel",
+		"defname": "RimFridge_Refrigerator"
+	},
+	{
+		"abr": "großerkühlschrank",
+		"price": 350,
+		"category": "Möbel",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "doppelterwandkühlschrank",
+		"price": 200,
+		"category": "Möbel",
+		"defname": "RimFridge_SingleWallRefrigerator"
+	},
+	{
+		"abr": "wandkühlschrank",
+		"price": 186,
+		"category": "Möbel",
+		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "tailteethleather",
+		"price": 6,
+		"category": "Leder",
+		"defname": "Leather_Tailteeth"
+	},
+	{
+		"abr": "oyster",
+		"price": 7,
+		"category": "Nahrung",
+		"defname": "Oyster"
+	},
+	{
+		"abr": "pearl",
+		"price": 417,
+		"category": "Objekte",
+		"defname": "Pearl"
+	},
+	{
+		"abr": "sduiggles",
+		"price": 167,
+		"category": "Tiere",
+		"defname": "Sduiggles"
+	},
+	{
+		"abr": "seasnake",
+		"price": 133,
+		"category": "Tiere",
+		"defname": "Seasnake"
+	},
+	{
+		"abr": "mashgon",
+		"price": 83,
+		"category": "Tiere",
+		"defname": "Mashgon"
+	},
+	{
+		"abr": "blueblade",
+		"price": 133,
+		"category": "Tiere",
+		"defname": "Blueblade"
+	},
+	{
+		"abr": "tailteeth",
+		"price": 833,
+		"category": "Tiere",
+		"defname": "Tailteeth"
+	},
+	{
+		"abr": "walllight",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLight"
+	},
+	{
+		"abr": "wallsunlight",
+		"price": 32,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallSunLight"
+	},
+	{
+		"abr": "walldarklight",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightDark"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "walllight(magenta)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightCyan"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "walllight(azure)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": 16,
+		"category": "Möbel",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
 		"abr": "bärenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Bear_Grizzly"
 	},
 	{
 		"abr": "vogelfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Cassowary"
 	},
 	{
 		"abr": "pumafleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Cougar"
 	},
 	{
 		"abr": "pantherfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Panther"
 	},
 	{
 		"abr": "luchsfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Lynx"
 	},
 	{
 		"abr": "katzenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Cat"
 	},
 	{
 		"abr": "yorkiefleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
 		"abr": "meerschweinchenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_GuineaPig"
 	},
 	{
 		"abr": "labradorfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_LabradorRetriever"
 	},
 	{
 		"abr": "huskyfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Husky"
 	},
 	{
 		"abr": "affenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Monkey"
 	},
 	{
 		"abr": "hühnerfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Chicken"
 	},
 	{
 		"abr": "entenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Duck"
 	},
 	{
 		"abr": "truthahnfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Turkey"
 	},
 	{
 		"abr": "rindfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Cow"
 	},
 	{
 		"abr": "boomalopenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Boomalope"
 	},
 	{
 		"abr": "muffalofleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Muffalo"
 	},
 	{
 		"abr": "bisonfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Bison"
 	},
 	{
 		"abr": "dromedarfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Dromedary"
 	},
 	{
 		"abr": "ziegenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Goat"
 	},
 	{
 		"abr": "elchfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Elk"
 	},
 	{
 		"abr": "yakfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Yak"
 	},
 	{
 		"abr": "rentierfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Caribou"
 	},
 	{
 		"abr": "pferdefleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Horse"
 	},
 	{
 		"abr": "eselfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Donkey"
 	},
 	{
 		"abr": "elefantenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Elephant"
 	},
 	{
 		"abr": "nashornfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Rhinoceros"
 	},
 	{
 		"abr": "hasenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Hare"
 	},
 	{
 		"abr": "insektenfleisch",
-		"price": 1,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Megaspider"
 	},
 	{
 		"abr": "thrumbofleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Thrumbo"
 	},
 	{
 		"abr": "schlangenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Cobra"
 	},
 	{
 		"abr": "schildkrötenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Tortoise"
 	},
 	{
 		"abr": "biberfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Alphabeaver"
 	},
 	{
 		"abr": "schweinefleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Pig"
 	},
 	{
 		"abr": "steinbockfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Ibex"
 	},
 	{
 		"abr": "wildfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Deer"
 	},
 	{
 		"abr": "gazellenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Gazelle"
 	},
 	{
 		"abr": "chinchillafleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Chinchilla"
 	},
 	{
 		"abr": "schaffleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Sheep"
 	},
 	{
 		"abr": "alpakafleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Alpaca"
 	},
 	{
 		"abr": "faultierfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Megasloth"
 	},
 	{
 		"abr": "wasserschweinfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Capybara"
 	},
 	{
 		"abr": "eichhörnchenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Squirrel"
 	},
 	{
 		"abr": "rattenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Rat"
 	},
 	{
 		"abr": "boomrattenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Boomrat"
 	},
 	{
 		"abr": "waschbärenfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Raccoon"
 	},
 	{
 		"abr": "leguanfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Iguana"
 	},
 	{
 		"abr": "wargfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Warg"
 	},
 	{
 		"abr": "wolfsfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Wolf_Timber"
 	},
 	{
 		"abr": "fuchsfleisch",
-		"price": 3,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Fox_Fennec"
 	},
 	{
 		"abr": "menschenfleisch",
-		"price": 1,
+		"price": 10,
 		"category": "Fleisch",
 		"defname": "Meat_Human"
+	},
+	{
+		"abr": "sduigglestentacles",
+		"price": 10,
+		"category": "Fleisch",
+		"defname": "Meat_Sduiggles"
+	},
+	{
+		"abr": "seasnakefilet",
+		"price": 10,
+		"category": "Fleisch",
+		"defname": "Meat_Seasnake"
+	},
+	{
+		"abr": "shelledmashgon",
+		"price": 10,
+		"category": "Fleisch",
+		"defname": "Meat_Mashgon"
+	},
+	{
+		"abr": "bluebladefilet",
+		"price": 10,
+		"category": "Fleisch",
+		"defname": "Meat_Blueblade"
+	},
+	{
+		"abr": "tailteethsteak",
+		"price": 10,
+		"category": "Fleisch",
+		"defname": "Meat_Tailteeth"
 	},
 	{
 		"abr": "fähigkeitstrainer(fernkampf)",
@@ -2395,35 +2593,281 @@
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
-		"abr": "doppelterwandkühlschrank",
-		"price": 121,
-		"category": "Möbel",
-		"defname": "RimFridge_SingleWallRefrigerator"
+		"abr": "anti-materialrifle",
+		"price": 1717,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_AntiMaterialRifle"
 	},
 	{
-		"abr": "großerkühlschrank",
-		"price": 307,
-		"category": "Möbel",
-		"defname": "RimFridge_QuadRefrigerator"
+		"abr": "baton",
+		"price": 206,
+		"category": "Nahkampfwaffen",
+		"defname": "VWE_MeleeWeapon_Baton"
 	},
 	{
-		"abr": "kühlschrank",
-		"price": 186,
-		"category": "Möbel",
-		"defname": "RimFridge_Refrigerator"
+		"abr": "battleaxe",
+		"price": 442,
+		"category": "Nahkampfwaffen",
+		"defname": "VWE_MeleeWeapon_BattleAxe"
 	},
 	{
-		"abr": "mini-kühlschrank",
-		"price": 121,
-		"category": "Möbel",
-		"defname": "RimFridge_SingleRefrigerator"
+		"abr": "battlerifle",
+		"price": 800,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_BattleRifle"
 	},
 	{
-		"abr": "wandkühlschrank",
-		"price": 186,
-		"category": "Möbel",
-		"defname": "RimFridge_WallRefrigerator"
+		"abr": "carbine",
+		"price": 800,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_Carbine"
+	},
+	{
+		"abr": "chargelmg",
+		"price": 2833,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_ChargeLMG"
+	},
+	{
+		"abr": "chargeminigun",
+		"price": 5458,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_ChargeMinigun"
+	},
+	{
+		"abr": "chargepistol",
+		"price": 1008,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_ChargePistol"
+	},
+	{
+		"abr": "chargerocketlauncher",
+		"price": 11667,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_ChargeRocketLauncher"
+	},
+	{
+		"abr": "chargeshotgun",
+		"price": 1683,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_ChargeShotgun"
+	},
+	{
+		"abr": "chargesmg",
+		"price": 1508,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_ChargeSMG"
+	},
+	{
+		"abr": "chargesniperrifle",
+		"price": 2050,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_ChargeSniperRifle"
+	},
+	{
+		"abr": "cleaver",
+		"price": 277,
+		"category": "Nahkampfwaffen",
+		"defname": "VWE_MeleeWeapon_Cleaver"
+	},
+	{
+		"abr": "combathandgun",
+		"price": 291,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_CombatHandgun"
+	},
+	{
+		"abr": "combatknife",
+		"price": 205,
+		"category": "Nahkampfwaffen",
+		"defname": "VWE_MeleeWeapon_CombatKnife"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 240,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Bow_Compound"
+	},
+	{
+		"abr": "crossbow",
+		"price": 358,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Bow_Crossbow"
+	},
+	{
+		"abr": "fireextinguisher",
+		"price": 508,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_FireExtinguisher"
+	},
+	{
+		"abr": "flamethrower",
+		"price": 667,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_Flamethrower"
+	},
+	{
+		"abr": "flashgrenades",
+		"price": 525,
+		"category": "Handgranaten",
+		"defname": "VWE_FlashGrenade"
+	},
+	{
+		"abr": "flintlock",
+		"price": 275,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_Flintlock"
+	},
+	{
+		"abr": "grenadelauncher",
+		"price": 508,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_GrenadeLauncher"
+	},
+	{
+		"abr": "halberd",
+		"price": 483,
+		"category": "Nahkampfwaffen",
+		"defname": "VWE_MeleeWeapon_Halberd"
+	},
+	{
+		"abr": "hammer",
+		"price": 281,
+		"category": "Nahkampfwaffen",
+		"defname": "VWE_MeleeWeapon_Hammer"
+	},
+	{
+		"abr": "handcannon",
+		"price": 232,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_HandCannon"
+	},
+	{
+		"abr": "hatchet",
+		"price": 147,
+		"category": "Nahkampfwaffen",
+		"defname": "VWE_MeleeWeapon_Axe"
+	},
+	{
+		"abr": "hmg",
+		"price": 800,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_HMG"
+	},
+	{
+		"abr": "lever-actionrifle",
+		"price": 408,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_LeverActionRifle"
+	},
+	{
+		"abr": "lightsmg",
+		"price": 383,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_LightSMG"
+	},
+	{
+		"abr": "longbow",
+		"price": 197,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Bow_Long"
+	},
+	{
+		"abr": "marksmanrifle",
+		"price": 1183,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_MarksmanRifle"
+	},
+	{
+		"abr": "musket",
+		"price": 383,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_Musket"
+	},
+	{
+		"abr": "pickaxe",
+		"price": 248,
+		"category": "Nahkampfwaffen",
+		"defname": "VWE_MeleeWeapon_Pickaxe"
+	},
+	{
+		"abr": "rocketlauncher",
+		"price": 1667,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_RocketLauncher"
+	},
+	{
+		"abr": "sawed-offshotgun",
+		"price": 297,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_SawedOffShotgun"
+	},
+	{
+		"abr": "scalpel",
+		"price": 277,
+		"category": "Nahkampfwaffen",
+		"defname": "VWE_MeleeWeapon_Scalpel"
+	},
+	{
+		"abr": "semi-automaticrifle",
+		"price": 408,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_SemiAutomaticRifle"
+	},
+	{
+		"abr": "servicerifle",
+		"price": 800,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_ServiceRifle"
+	},
+	{
+		"abr": "shovel",
+		"price": 327,
+		"category": "Nahkampfwaffen",
+		"defname": "VWE_MeleeWeapon_Shovel"
+	},
+	{
+		"abr": "smg",
+		"price": 558,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Gun_SMG"
+	},
+	{
+		"abr": "smokegrenades",
+		"price": 215,
+		"category": "Handgranaten",
+		"defname": "VWE_SmokeGrenade"
+	},
+	{
+		"abr": "throwingknives",
+		"price": 161,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Throwing_Knives"
+	},
+	{
+		"abr": "throwingrocks",
+		"price": 11,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Throwing_Rocks"
+	},
+	{
+		"abr": "toxicgrenades",
+		"price": 1417,
+		"category": "Handgranaten",
+		"defname": "VWE_ToxicGrenade"
+	},
+	{
+		"abr": "whip",
+		"price": 203,
+		"category": "Fernkampfwaffen",
+		"defname": "VWE_Tool_Whip"
+	},
+	{
+		"abr": "wrench",
+		"price": 277,
+		"category": "Nahkampfwaffen",
+		"defname": "VWE_MeleeWeapon_Wrench"
 	}
 	],
-	"total": 404
+	"total": 478
 }
