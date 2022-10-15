@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 3000,
-		"karmatype": "Bad"
+		"price": 4000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
-		"price": 5200,
-		"karmatype": "Bad"
+		"price": 8000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -22,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -47,7 +47,7 @@
 	},
 	{
 		"abr": "snowhard",
-		"price": 450,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -72,17 +72,17 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
-		"karmatype": "Bad"
+		"price": 1000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 8000,
 		"karmatype": "Doom"
 	},
 	{
@@ -142,12 +142,12 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 250,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -208,12 +208,12 @@
 	{
 		"abr": "shippartpoison",
 		"price": 1900,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "shippartpsychic",
 		"price": 2400,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "militaryaid",
@@ -221,34 +221,14 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 5000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 5000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -436,5 +416,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 83
 }
